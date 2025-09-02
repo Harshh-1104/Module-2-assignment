@@ -19,11 +19,12 @@ int main()
 {
     int n;
 
-    printf("Enter Any Number: ");
+    printf("Enter a num: ");
     scanf("%d", &n);
 
     printf("\nFactorial : %d", fact(n));
 
     
 }
+
 
